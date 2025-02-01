@@ -1,1 +1,14 @@
 
+*{
+    margin: 0;
+padding: 0;
+
+}
+header{
+    width: 100vw;
+    background-color: #FEFEF2 ;
+}
+body{
+    width: 100vw;
+    background-color: #FEFEF2 ;
+}
