@@ -69,3 +69,20 @@
     height: 600px;
     background: #c98b06;
 }
+
+.container5{
+    width: 100%;
+    height: 864px;
+    background: #ddcfda;
+    display: flex;
+}
+.con5-1{
+    width: 50%;
+    height: 600px;
+    background: #b4831a;
+}
+.con5-2{
+    width: 50%;
+    height: 600px;
+    background: #057559;
+}
